@@ -1,7 +1,3 @@
-Here's a draft of a README file for an Election Analysis Dashboard developed in Power BI:
-
----
-
 # Election Analysis Dashboard in Power BI
 
 ## Overview
