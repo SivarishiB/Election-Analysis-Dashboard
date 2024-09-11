@@ -4,6 +4,8 @@
 
 The **Election Analysis Dashboard** is a comprehensive tool developed using Microsoft Power BI to visualize and analyze election data. It provides insights into various election metrics, including voter turnout, candidate performance, demographic breakdowns, and more. The dashboard is designed to help stakeholders understand election trends, identify key areas of interest, and make data-driven decisions.
 
+![Election Dashboard](Background.jpg)
+
 ## Features
 
 - **Voter Turnout Analysis**: Visualizes voter turnout across different regions, demographics, and election years.
@@ -72,3 +74,5 @@ This dashboard supports various data sources, including:
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code is well-documented and that you have tested your changes before submitting.
+
+---
